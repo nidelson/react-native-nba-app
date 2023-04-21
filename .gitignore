@@ -1,0 +1,34 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+
+# Android/IntelliJ
+#
+android/build/
+android/.gradle/
+
+# Node.js
+#
+node_modules/
+yarn-error.log
+
+# CocoaPods
+#
+ios/build/
+ios/Pods/
+
+# Ruby
+#
+vendor/
+
+# VSCode
+#
+.vscode/
+!.vscode/settings.json
+
+# Watchman
+#

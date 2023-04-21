@@ -1,2 +1,3 @@
-# react-native-nba-app
-iOS and Android NBA app created with React Native
+# NBA App
+
+iOS and Android NBA app created with React Native.
