@@ -6,12 +6,13 @@ iOS and Android NBA app created with React Native.
 
 - React Native
 - Gesture Handler
+- Reanimated 3
 - TypeScript
 - TailwindCSS
 
 ## TODO
 
 - Cypress
-- Sentry
-- Reanimated 3
+- Sentry / NewRelic
+- StoryBook
 - BottomSheet
