@@ -5,6 +5,7 @@ iOS and Android NBA app created with React Native.
 ## Tech Stack
 
 - React Native
+- Gesture Handler
 - TypeScript
 - TailwindCSS
 
@@ -12,6 +13,5 @@ iOS and Android NBA app created with React Native.
 
 - Cypress
 - Sentry
-- Gesture Handler
 - Reanimated 3
 - BottomSheet
