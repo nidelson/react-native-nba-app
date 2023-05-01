@@ -9,6 +9,9 @@ iOS and Android NBA app created with React Native.
 - Reanimated 3
 - TypeScript
 - TailwindCSS
+- React Navigation
+  - React Screens
+  - React Safe Area Context
 
 ## TODO
 
