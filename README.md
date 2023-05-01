@@ -12,6 +12,9 @@ iOS and Android NBA app created with React Native.
 - React Navigation
   - React Screens
   - React Safe Area Context
+  - React Native Blur
+- React Native Paper
+- React Vector Icons
 
 ## TODO
 
