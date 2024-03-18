@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@react-native-community/blur": "4.3.2",
-    "@react-navigation/bottom-tabs": "6.5.7",
-    "@react-navigation/native": "6.1.6",
+    "@react-navigation/bottom-tabs": "6.5.20",
+    "@react-navigation/native": "6.1.17",
     "nativewind": "2.0.11",
     "react": "18.2.0",
     "react-native": "0.71.7",
